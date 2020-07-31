@@ -1,0 +1,34 @@
+_repo: Classic-Variations-in-Cooking-with-Texas-Eggs_62665
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Brown, Reagan V.
+    birthdate: 1921
+    deathdate: 1999
+    gutenberg_agent_id: '51991'
+    url: http://www.gutenberg.org/2009/agents/51991
+    wikipedia: https://en.wikipedia.org/wiki/Reagan_V._Brown
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2020-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking (Eggs)'
+- GITenberg
+title: Classic Variations in Cooking with Texas Eggs
+url: http://www.gutenberg.org/ebooks/62665
